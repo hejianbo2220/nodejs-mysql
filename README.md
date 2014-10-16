@@ -1,2 +1,2 @@
-nodejs-mysql
+Operating mysql by nodejs
 ============
